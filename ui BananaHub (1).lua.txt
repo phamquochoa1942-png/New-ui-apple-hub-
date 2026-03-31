@@ -18,7 +18,7 @@ local T1UIColor = {
     ["Border Color"] = Color3.fromRGB(255, 180, 50),
     ["Click Effect Color"] = Color3.fromRGB(255, 170, 40),
     ["Setting Icon Color"] = Color3.fromRGB(255, 180, 50),
-    ["Logo Image"] = "rbxassetid://105245380363493",
+    ["Logo Image"] = "rbxassetid://1774948265257",
     
     -- Màu icon search (vàng cam)
     ["Search Icon Color"] = Color3.fromRGB(255, 180, 50),
@@ -3878,7 +3878,7 @@ getgenv().UIToggled = true
 local Window = Library:CreateWindow({
     Title = "Apple Hub",
     Subtitle = "By Quoc Hoa",
-    Image = "rbxassetid://105245380363493"
+    Image = "rbxassetid://1774948265257"
 })
 
 -- Tạo các tab
